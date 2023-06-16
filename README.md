@@ -1,1 +1,3 @@
-# solarium
+# Solarium
+
+## Lead Developer: Bradley Daniels
